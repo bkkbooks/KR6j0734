@@ -1,0 +1,554 @@
+canonical_identifier: bkk:krp/KR6j0734/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0734/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大日經義釋
+  identifiers:
+    krp: KR6j0734
+    cbeta: X23n0438
+    cbeta_old_id: X23n0438
+    authorityid: CA0000663
+    json_key: X0438
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X23/X23n0438.xml
+    old_id: X23n0438
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0734_000-X.yaml, hash: 'sha256:e28d46cae11ab0c6a55ca75f557a38f430af84ce222cb1316f2419813ed730f2'}
+  - {seq: 1, filename: KR6j0734_001-X.yaml, hash: 'sha256:7a605de976c0fb7096741ba24623b56172f8c1fc324f44989e9c0b135181b1f3'}
+  - {seq: 2, filename: KR6j0734_002-X.yaml, hash: 'sha256:88a3c10fd187afee17a2639a686be86c45d84b8bcd9d56131497874895d0e542'}
+  - {seq: 3, filename: KR6j0734_003-X.yaml, hash: 'sha256:afb4a703d5e7110fbf17bfb77ff2bd99f3bee866cf3c7e577132bad2497db858'}
+  - {seq: 4, filename: KR6j0734_004-X.yaml, hash: 'sha256:dd6a56a5efe653bd501c41d79cc8ff0a23e15a048ea4e8f97394a8c39135bac2'}
+  - {seq: 5, filename: KR6j0734_005-X.yaml, hash: 'sha256:c05434b9e8d4039eff8fe673405c5adc43aaed77fa0c395974b3f4f21fc9e993'}
+  - {seq: 6, filename: KR6j0734_006-X.yaml, hash: 'sha256:6e82ac12798dc470482f909c66837367e86c48655fd57e0a83e9acd85669824d'}
+  - {seq: 7, filename: KR6j0734_007-X.yaml, hash: 'sha256:65a177bd45e1b88dd05df189557c5562a80dbc3bd2d821b5a7b9fe0575db84b9'}
+  - {seq: 8, filename: KR6j0734_008-X.yaml, hash: 'sha256:35165e286df2d5f82acab996a2551f9e674ce91220ca654c81b95daa8a0d5abb'}
+  - {seq: 9, filename: KR6j0734_009-X.yaml, hash: 'sha256:1563e06ebad16963199e359e35deeb5a9fa8c507e36b8c2d2e3649612d228c7f'}
+  - {seq: 10, filename: KR6j0734_010-X.yaml, hash: 'sha256:e5228a6d3da083440f5e9755acc96fdc88706039a94a862b3b401be49179b5fc'}
+  - {seq: 11, filename: KR6j0734_011-X.yaml, hash: 'sha256:74e49f81a59a85fcca6b4f3381b61238aadd7b7d098ddfcd505eac6ebd716c5c'}
+  - {seq: 12, filename: KR6j0734_012-X.yaml, hash: 'sha256:5146c3050af034b83719e783408c6992e39594e5771e39ab3c8606663e9506af'}
+  - {seq: 13, filename: KR6j0734_013-X.yaml, hash: 'sha256:d7c7a610234f3fc0ca83b71fd7273c1f7b436152b1013b5348e4ef533555fa98'}
+  - {seq: 14, filename: KR6j0734_014-X.yaml, hash: 'sha256:7442f34c39650b66cfc0315184af9089c8dd7353a224afa3eb86a437656bb088'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0734_000-X.markers.yaml, hash: 'sha256:55f530489aa20489848242b87d9c669d6f15b35bf5361e4f5a10da16ba7f6fb3'}
+  - {seq: 1, role: markers, filename: assets/KR6j0734_001-X.markers.yaml, hash: 'sha256:e17af713e18904bfd25521305cd8f8a0016545ac28b49379f26f96031ebc3e36'}
+  - {seq: 2, role: markers, filename: assets/KR6j0734_002-X.markers.yaml, hash: 'sha256:d02e06c5e7262f19c27727c9224fa5bb995e98c6e9430d5e1b8d246e0775166c'}
+  - {seq: 3, role: markers, filename: assets/KR6j0734_003-X.markers.yaml, hash: 'sha256:862614ce948bb4acf029b8de1651b9ef9a0ced1aeab1e1beedba11ed017367be'}
+  - {seq: 4, role: markers, filename: assets/KR6j0734_004-X.markers.yaml, hash: 'sha256:f9a2b1052e5382da7fcfb22229dc1a067fa26467f0c2b0654664cc87b2b1670b'}
+  - {seq: 5, role: markers, filename: assets/KR6j0734_005-X.markers.yaml, hash: 'sha256:015e409f34e68e1e55468dc550234a4829c6ce581347524f7069e2463635ce2d'}
+  - {seq: 6, role: markers, filename: assets/KR6j0734_006-X.markers.yaml, hash: 'sha256:a764f72e4261783da9279e7345eb87538edfbbc9a314bf77a6ce27f67a1c2ac5'}
+  - {seq: 7, role: markers, filename: assets/KR6j0734_007-X.markers.yaml, hash: 'sha256:ad2c4b211d63c29bfa4dd440dd9e341bf2798bf94a799ee96c9b9854892d2a04'}
+  - {seq: 8, role: markers, filename: assets/KR6j0734_008-X.markers.yaml, hash: 'sha256:59131f7ca61aa38305efdecb6f47171982d7b084f20ea3e86fb3018f19dfa0dc'}
+  - {seq: 9, role: markers, filename: assets/KR6j0734_009-X.markers.yaml, hash: 'sha256:223a0033461d193c7854725905bb67208f4273c9dba50c62939f48ed7929f78a'}
+  - {seq: 10, role: markers, filename: assets/KR6j0734_010-X.markers.yaml, hash: 'sha256:536b65b12502e299d4902026d1654025276c409c789e578a1dbc46da4103781b'}
+  - {seq: 11, role: markers, filename: assets/KR6j0734_011-X.markers.yaml, hash: 'sha256:ff8bb089983230ccfb0ae6f8a05c08e20970e0d0a6d2d9470be59eb86a6ea3c5'}
+  - {seq: 12, role: markers, filename: assets/KR6j0734_012-X.markers.yaml, hash: 'sha256:62fc94b10dbf20ba282dcf3a25e7f47a5c01a14333676fbae04189ee03ee6a83'}
+  - {seq: 13, role: markers, filename: assets/KR6j0734_013-X.markers.yaml, hash: 'sha256:f6b72ead9630ace09ff24aabfe3d2c0a290f70f03a5db846c1894532693b2671'}
+  - {seq: 14, role: markers, filename: assets/KR6j0734_014-X.markers.yaml, hash: 'sha256:84b64a920a8cbd2026246e1365207952148d52029305033c6caed51866a7ad10'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0734_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 438-A 毗盧遮那成佛神變加持經義釋序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0734_X_000-mulu-2
+    span:
+    - front
+    - 546
+    - 546
+  label: 重刻毗盧遮那成佛神變加持經義釋　凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0734_X_000-mulu-3
+    span:
+    - front
+    - 773
+    - 773
+  label: 毗盧遮那成佛神變加持經義釋目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0734_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 18042
+  label: 毗盧遮那成佛神變加持經義釋卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0734_X_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 入真言門住心品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0734_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 26672
+  label: 毗盧遮那成佛神變加持經義釋卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0734_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 20232
+  label: 毗盧遮那成佛神變加持經義釋卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0734_X_003-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 入漫荼羅具緣真言品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0734_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 22884
+  label: 毗盧遮那成佛神變加持經義釋卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0734_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 25731
+  label: 毗盧遮那成佛神變加持經義釋卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0734_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 25842
+  label: 毗盧遮那成佛神變加持經義釋卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0734_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 27263
+  label: 毗盧遮那成佛神變加持經義釋卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0734_X_007-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 息障品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0734_X_007-mulu-2
+    span:
+    - body
+    - 3843
+    - 3843
+  label: 普通真言藏品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0734_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 17138
+  label: 毗盧遮那成佛神變加持經義釋卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0734_X_008-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 世間成就品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0734_X_008-mulu-2
+    span:
+    - body
+    - 7448
+    - 7448
+  label: 悉地出現品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0734_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 19214
+  label: 毗盧遮那成佛神變加持經義釋卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0734_X_009-mulu-1
+    span:
+    - body
+    - 10586
+    - 10586
+  label: 成就悉地品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0734_X_009-mulu-2
+    span:
+    - body
+    - 15772
+    - 15772
+  label: 轉字輪漫荼羅行品第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0734_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 22477
+  label: 毗盧遮那成佛神變加持經義釋卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0734_X_010-mulu-1
+    span:
+    - body
+    - 6048
+    - 6048
+  label: 密印品第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6j0734_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 22676
+  label: 毗盧遮那成佛神變加持經義釋卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6j0734_X_011-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 字輪品第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6j0734_X_011-mulu-2
+    span:
+    - body
+    - 4083
+    - 4083
+  label: 祕密漫荼羅品第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6j0734_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 28205
+  label: 毗盧遮那成佛神變加持經義釋卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6j0734_X_012-mulu-1
+    span:
+    - body
+    - 11242
+    - 11242
+  label: 入祕密漫荼羅法品第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6j0734_X_012-mulu-2
+    span:
+    - body
+    - 13495
+    - 13495
+  label: 次住祕密漫荼羅品第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6j0734_X_012-mulu-3
+    span:
+    - body
+    - 18654
+    - 18654
+  label: 次祕密八印品第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6j0734_X_012-mulu-4
+    span:
+    - body
+    - 20632
+    - 20632
+  label: 次持明禁戒品第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6j0734_X_012-mulu-5
+    span:
+    - body
+    - 24150
+    - 24150
+  label: 次阿闍棃真實智品第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6j0734_X_012-mulu-6
+    span:
+    - body
+    - 27949
+    - 27949
+  label: 次布字品第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6j0734_X_013-juan-start
+    span:
+    - body
+    - 0
+    - 27116
+  label: 毗盧遮那成佛神變加持經義釋卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6j0734_X_013-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 受方便學處品第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6j0734_X_013-mulu-2
+    span:
+    - body
+    - 14515
+    - 14515
+  label: 次說釋百字生品第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6j0734_X_013-mulu-3
+    span:
+    - body
+    - 16037
+    - 16037
+  label: 次百字果相應品第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6j0734_X_013-mulu-4
+    span:
+    - body
+    - 18308
+    - 18308
+  label: 次真言百字位成品第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6j0734_X_013-mulu-5
+    span:
+    - body
+    - 22879
+    - 22879
+  label: 次百字成就持誦品第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0734_X_014-juan-start
+    span:
+    - body
+    - 0
+    - 23346
+  label: 毗盧遮那成佛神變加持經義釋卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0734_X_014-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 百字真言法品第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0734_X_014-mulu-2
+    span:
+    - body
+    - 1365
+    - 1365
+  label: 次菩提性品第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0734_X_014-mulu-3
+    span:
+    - body
+    - 2873
+    - 2873
+  label: 次三三昧耶行品第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0734_X_014-mulu-4
+    span:
+    - body
+    - 5007
+    - 5007
+  label: 說如來品第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0734_X_014-mulu-5
+    span:
+    - body
+    - 5787
+    - 5787
+  label: 次世出世護摩法品第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0734_X_014-mulu-6
+    span:
+    - body
+    - 11667
+    - 11667
+  label: 次說本尊三昧品第二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0734_X_014-mulu-7
+    span:
+    - body
+    - 13253
+    - 13253
+  label: 次無相三昧品第二十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0734_X_014-mulu-8
+    span:
+    - body
+    - 15030
+    - 15030
+  label: 世出世間持誦品第三十
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0734_X_014-mulu-9
+    span:
+    - body
+    - 17736
+    - 17736
+  label: 囑纍品第三十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0734_X_014-mulu-10
+    span:
+    - body
+    - 21971
+    - 21971
+  label: No. 438-B 重刻毗盧遮那成佛神變加持經義釋䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6j0734_X_014-mulu-11
+    span:
+    - body
+    - 22522
+    - 22522
+  label: No. 438-C 大毗盧遮那成道經義釋目錄緣起
+  type: mulu
+  level: 1
+hash: sha256:f98b0a982631380aa288935ec1c49e0cb5e93dbfe0fe889fca45481e2b0dbe6c
