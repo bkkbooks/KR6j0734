@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0734_000.yaml, hash: 'sha256:3a02b0211e66e5cd5ab9778d3aa63e12b6a8d2fef06342ac9da274be0bba76ce'}
+  - {seq: 0, filename: KR6j0734_000.yaml, hash: 'sha256:93138e2df4af3b293f54e4adc252b6aac2a865326c663212fec2aa6d191e5e70'}
   - {seq: 1, filename: KR6j0734_001.yaml, hash: 'sha256:9edebbeeb82af39f44ab34a8e88e512015da166b05541aaa1ed8fb877eb772b2'}
   - {seq: 2, filename: KR6j0734_002.yaml, hash: 'sha256:4fab50f92204222270c4d38bc68a68dcff923cd857a4f0fefd467770f8fd1cac'}
   - {seq: 3, filename: KR6j0734_003.yaml, hash: 'sha256:0cb4ce24bc88355b577c3466783e721b01a12f1faaeaf4efb9dbc79cc7f2a14d'}
@@ -37,7 +37,7 @@ assets:
   - {seq: 13, filename: KR6j0734_013.yaml, hash: 'sha256:41d94de0d31f1b1d1fd73194966d7b9815ab80337dc8055e80b53b043156b506'}
   - {seq: 14, filename: KR6j0734_014.yaml, hash: 'sha256:304f892c4fa3eac3e31a41670dd1ea9398058433e6a5d82864a1171db71f8c24'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0734_000.markers.yaml, hash: 'sha256:2a32c0ab7391395f8ffde814cf49e9dde3d98ab455576e5185d1e82dc4b49a9e'}
+  - {seq: 0, role: markers, filename: assets/KR6j0734_000.markers.yaml, hash: 'sha256:48534e0b48486f212834d6b33d5780790df352f0479acd7496b49e3d446d4e8d'}
   - {seq: 1, role: markers, filename: assets/KR6j0734_001.markers.yaml, hash: 'sha256:731b969591ed818e1ffd6fe1fc7b316f9ce8fc13903ce828557ab93a1f3ccbde'}
   - {seq: 2, role: markers, filename: assets/KR6j0734_002.markers.yaml, hash: 'sha256:102a9b3a9c9f7532ba3bf9bf2dba5ce96fcf7b4fb169f1f5e66aca33cb244523'}
   - {seq: 3, role: markers, filename: assets/KR6j0734_003.markers.yaml, hash: 'sha256:52ff2be8b50795c338def64113e47d55e0df3842c52ab5ad96b265066e412934'}
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0734_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 438-A 毗盧遮那成佛神變加持經義釋序
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0734_X_000-mulu-2
     span:
-    - front
+    - body
     - 546
     - 546
   label: 重刻毗盧遮那成佛神變加持經義釋　凡例
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0734_X_000-mulu-3
     span:
-    - front
+    - body
     - 773
     - 773
   label: 毗盧遮那成佛神變加持經義釋目次
@@ -553,7 +553,7 @@ table_of_contents:
   label: No. 438-C 大毗盧遮那成道經義釋目錄緣起
   type: mulu
   level: 1
-hash: sha256:ad927a8027737002b414db22ee70fa561db7b65ad77301239ac51076362c8b7c
+hash: sha256:a68a2de120c5a6fd4d65811e27a8bbc771d628863977ef817e1c8e81986e0e0e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
